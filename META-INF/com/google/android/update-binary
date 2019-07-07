@@ -86,9 +86,9 @@ if [ -f version ]; then
   ui_print " ";
 fi;
 ui_print " ";
-ui_print " // Tired-Kernel^^Muhammadfadlyas";
+ui_print " Tired-Kernel By ∆Muhammadfadlyas∆";
 ui_print " ";
-ui_print " // Xiaomeme randi 4a//";
+ui_print " << Xiaomeme randi 4a >>";
 ui_print " ";
 
 unmount_all;
